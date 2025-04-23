@@ -1,0 +1,14 @@
+name="Aswini"
+age=20
+dob="07-08-2005"
+height=5.3
+weight=45
+degree="MCA"
+gender="Female"
+print("Name:",name)
+print("Age:",age)
+print("DOB:",dob)
+print("Height:",height)
+print("Weight:",weight)
+print("Degree:",degree)
+print("Gender:",gender)
